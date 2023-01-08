@@ -1,0 +1,31 @@
+@import "https://fonts.googleapis.com/icon?family=Material+Icons";
+
+body { 
+  font-family: monospace;
+  margin: 0; 
+  font-size: 1.3rem;
+  font-weight: normal;
+}
+
+.edit_windows{
+  display: flex;
+  flex-direction: row;
+}
+
+#left_container.edit_window_container{
+  width: 70%;
+  height: 100%;
+}
+
+#right_container.edit_window_container{
+  width: 30%;
+  height: 100%;
+}
+
+canvas { 
+  display: block;
+}
+
+p {
+  overflow: scroll;
+}
