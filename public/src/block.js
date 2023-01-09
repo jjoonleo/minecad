@@ -104,7 +104,7 @@ Blocks.log = class extends Block{
         if(this.axis){
             switch(this.axis){
                 case "y":
-                    vector = new THREE.Vector3(1,0,0);
+                    vector = new THREE.Vector3(0,1,0);
                     break;
 
                 case "x":

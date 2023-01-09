@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "firebase": "^9.15.0",
     "lodash": "^4.17.21",
     "three": "^0.115.0"
   },
