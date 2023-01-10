@@ -1,4 +1,3 @@
-const Blocks = {
 	"stone":{
 		"name":"Stone",
 		"id":"22948",
@@ -116,23 +115,6 @@ const Blocks = {
 			},
 		},
 	},
-	"grass_block":{
-        "name": "Grass Block",
-        "textures":{
-            "top":{
-                "file":"grass_block_top.png",
-                "color":"#c2ff83"
-            },
-            "side":{
-                "side":"side",
-                "file":"grass_block_side.png",
-            },
-            "bottom":{
-                "file":"grass_block_top.png",
-                "color":"#ffb77e"
-            }
-        }
-    },
 	"dirt":{
 		"name":"Dirt",
 		"id":"10580",
@@ -708,7 +690,6 @@ const Blocks = {
 				"file":"oak_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"spruce_log":{
 		"name":"Spruce_Log",
@@ -718,7 +699,6 @@ const Blocks = {
 				"file":"spruce_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"birch_log":{
 		"name":"Birch_Log",
@@ -728,7 +708,6 @@ const Blocks = {
 				"file":"birch_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"jungle_log":{
 		"name":"Jungle_Log",
@@ -738,7 +717,6 @@ const Blocks = {
 				"file":"jungle_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"acacia_log":{
 		"name":"Acacia_Log",
@@ -748,7 +726,6 @@ const Blocks = {
 				"file":"acacia_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"dark_oak_log":{
 		"name":"Dark_Oak_Log",
@@ -758,7 +735,6 @@ const Blocks = {
 				"file":"dark_oak_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"mangrove_log":{
 		"name":"Mangrove_Log",
@@ -768,7 +744,6 @@ const Blocks = {
 				"file":"mangrove_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"crimson_stem":{
 		"name":"Crimson_Stem",
@@ -778,7 +753,6 @@ const Blocks = {
 				"file":"crimson_stem.png",
 			},
 		},
-        "type":"log",
 	},
 	"warped_stem":{
 		"name":"Warped_Stem",
@@ -788,7 +762,6 @@ const Blocks = {
 				"file":"warped_stem.png",
 			},
 		},
-        "type":"log",
 	},
 	"stripped_oak_log":{
 		"name":"Stripped_Oak_Log",
@@ -798,7 +771,6 @@ const Blocks = {
 				"file":"stripped_oak_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"stripped_spruce_log":{
 		"name":"Stripped_Spruce_Log",
@@ -808,7 +780,6 @@ const Blocks = {
 				"file":"stripped_spruce_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"stripped_birch_log":{
 		"name":"Stripped_Birch_Log",
@@ -818,7 +789,6 @@ const Blocks = {
 				"file":"stripped_birch_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"stripped_jungle_log":{
 		"name":"Stripped_Jungle_Log",
@@ -828,7 +798,6 @@ const Blocks = {
 				"file":"stripped_jungle_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"stripped_acacia_log":{
 		"name":"Stripped_Acacia_Log",
@@ -838,7 +807,6 @@ const Blocks = {
 				"file":"stripped_acacia_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"stripped_dark_oak_log":{
 		"name":"Stripped_Dark_Oak_Log",
@@ -848,7 +816,6 @@ const Blocks = {
 				"file":"stripped_dark_oak_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"stripped_mangrove_log":{
 		"name":"Stripped_Mangrove_Log",
@@ -858,7 +825,6 @@ const Blocks = {
 				"file":"stripped_mangrove_log.png",
 			},
 		},
-        "type":"log",
 	},
 	"stripped_crimson_stem":{
 		"name":"Stripped_Crimson_Stem",
@@ -868,7 +834,6 @@ const Blocks = {
 				"file":"stripped_crimson_stem.png",
 			},
 		},
-        "type":"log",
 	},
 	"stripped_warped_stem":{
 		"name":"Stripped_Warped_Stem",
@@ -878,7 +843,6 @@ const Blocks = {
 				"file":"stripped_warped_stem.png",
 			},
 		},
-        "type":"log",
 	},
 	"oak_leaves":{
 		"name":"Oak_Leaves",
@@ -3949,6 +3913,3 @@ const Blocks = {
 			},
 		},
 	},
-}
-
-export default Blocks;

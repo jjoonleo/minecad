@@ -1,0 +1,435 @@
+stone*22948
+granite*21091
+polished_granite*5477
+diorite*24688
+polished_diorite*31615
+andesite*25975
+polished_andesite*8335
+deepslate*26842, Orientable.class
+cobbled_deepslate*8021
+polished_deepslate*31772
+calcite*20311
+tuff*24364
+dripstone_block*26227
+dirt*10580
+coarse_dirt*15411
+rooted_dirt*11410
+mud*32418
+crimson_nylium*18139
+warped_nylium*26396
+cobblestone*32147
+oak_planks*14905
+spruce_planks*14593
+birch_planks*29322
+jungle_planks*26445
+acacia_planks*31312
+dark_oak_planks*20869
+mangrove_planks*7078
+crimson_planks*18812
+warped_planks*16045
+oak_sapling*9636, Sapling.class
+spruce_sapling*19874, Sapling.class
+birch_sapling*31533, Sapling.class
+jungle_sapling*17951, Sapling.class
+acacia_sapling*20806, Sapling.class
+dark_oak_sapling*14933, Sapling.class
+mangrove_propagule*18688, MangrovePropagule.class
+bedrock*23130
+sand*11542
+red_sand*16279
+gravel*7804
+coal_ore*30965
+deepslate_coal_ore*16823
+iron_ore*19834
+deepslate_iron_ore*26021
+copper_ore*32666
+deepslate_copper_ore*6588
+gold_ore*32625
+deepslate_gold_ore*13582
+redstone_ore*10887, Lightable.class
+deepslate_redstone_ore*6331, Lightable.class
+emerald_ore*16630
+deepslate_emerald_ore*5299
+lapis_ore*22934
+deepslate_lapis_ore*13598
+diamond_ore*9292
+deepslate_diamond_ore*17792
+nether_gold_ore*4185
+nether_quartz_ore*4807
+coal_block*27968
+raw_iron_block*32210
+raw_copper_block*17504
+raw_gold_block*23246
+amethyst_block*18919
+budding_amethyst*13963
+iron_block*24754
+copper_block*12880
+gold_block*27392
+diamond_block*5944
+netherite_block*6527
+exposed_copper*28488
+weathered_copper*19699
+oxidized_copper*19490
+cut_copper*32519
+exposed_cut_copper*18000
+weathered_cut_copper*21158
+oxidized_cut_copper*5382
+oak_log*26723, Orientable.class
+spruce_log*9726, Orientable.class
+birch_log*26727, Orientable.class
+jungle_log*20721, Orientable.class
+acacia_log*8385, Orientable.class
+dark_oak_log*14831, Orientable.class
+mangrove_log*23890, Orientable.class
+crimson_stem*27920, Orientable.class
+warped_stem*28920, Orientable.class
+stripped_oak_log*20523, Orientable.class
+stripped_spruce_log*6140, Orientable.class
+stripped_birch_log*8838, Orientable.class
+stripped_jungle_log*15476, Orientable.class
+stripped_acacia_log*18167, Orientable.class
+stripped_dark_oak_log*6492, Orientable.class
+stripped_mangrove_log*15197, Orientable.class
+stripped_crimson_stem*16882, Orientable.class
+stripped_warped_stem*15627, Orientable.class
+oak_leaves*4385, Leaves.class
+spruce_leaves*20039, Leaves.class
+birch_leaves*12601, Leaves.class
+jungle_leaves*5133, Leaves.class
+acacia_leaves*16606, Leaves.class
+dark_oak_leaves*22254, Leaves.class
+mangrove_leaves*15310, Leaves.class
+azalea_leaves*23001, Leaves.class
+flowering_azalea_leaves*7139, Leaves.class
+sponge*15860
+wet_sponge*9043
+glass*6195
+tinted_glass*19154
+lapis_block*14485
+sandstone*13141
+chiseled_sandstone*31763
+cut_sandstone*6118
+cobweb*9469
+grass*6155
+fern*15794
+dead_bush*22888
+seagrass*23942
+sea_pickle*19562, SeaPickle.class
+white_wool*8624
+orange_wool*23957
+magenta_wool*11853
+light_blue_wool*21073
+yellow_wool*29507
+lime_wool*10443
+pink_wool*7611
+gray_wool*27209
+light_gray_wool*22936
+cyan_wool*12221
+purple_wool*11922
+blue_wool*15738
+brown_wool*32638
+green_wool*25085
+red_wool*11621
+black_wool*16693
+dandelion*30558
+poppy*12851
+blue_orchid*13432
+allium*6871
+azure_bluet*17608
+red_tulip*16781
+orange_tulip*26038
+white_tulip*31495
+pink_tulip*27319
+oxeye_daisy*11709
+cornflower*15405
+lily_of_the_valley*7185
+wither_rose*8619
+spore_blossom*20627
+brown_mushroom*9665
+red_mushroom*19728
+crimson_fungus*26268
+warped_fungus*19799
+crimson_roots*14064
+warped_roots*13932
+nether_sprouts*10431
+weeping_vines*29267, Ageable.class
+twisting_vines*27283, Ageable.class
+sugar_cane*7726, Ageable.class
+kelp*21916, Ageable.class
+moss_block*9175
+hanging_roots*15498, Waterlogged.class
+smooth_stone*21910
+bricks*14165
+bookshelf*10069
+mossy_cobblestone*21900
+obsidian*32723
+torch*6063
+end_rod*24832, Directional.class
+chorus_plant*28243, MultipleFacing.class
+chorus_flower*28542, Ageable.class
+purpur_block*7538
+purpur_pillar*26718, Orientable.class
+spawner*7018
+farmland*31166, Farmland.class
+ladder*23599, Ladder.class
+snow*14146, Snow.class
+ice*30428
+clay*27880
+carved_pumpkin*25833, Directional.class
+jack_o_lantern*13758, Directional.class
+netherrack*23425
+soul_sand*16841
+soul_soil*31140
+smooth_basalt*13617
+soul_torch*14292
+glowstone*32713
+stone_bricks*6962
+mossy_stone_bricks*16415
+cracked_stone_bricks*27869
+chiseled_stone_bricks*9087
+packed_mud*7472
+mud_bricks*29168
+deepslate_bricks*13193
+cracked_deepslate_bricks*17105
+deepslate_tiles*11250
+cracked_deepslate_tiles*26249
+chiseled_deepslate*23825
+brown_mushroom_block*6291, MultipleFacing.class
+red_mushroom_block*20766, MultipleFacing.class
+mushroom_stem*16543, MultipleFacing.class
+iron_bars*9378, Fence.class
+chain*28265, Chain.class
+vine*14564, MultipleFacing.class
+glow_lichen*19165, GlowLichen.class
+lily_pad*19271
+nether_bricks*27802
+cracked_nether_bricks*10888
+chiseled_nether_bricks*21613
+sculk*17870
+sculk_vein*11615, SculkVein.class
+end_stone*29686
+end_stone_bricks*20314
+dragon_egg*29946
+emerald_block*9914
+beacon*6608
+anvil*18718, Directional.class
+chiseled_quartz_block*30964
+quartz_bricks*23358
+quartz_pillar*16452, Orientable.class
+white_terracotta*20975
+orange_terracotta*18684
+magenta_terracotta*25900
+light_blue_terracotta*31779
+yellow_terracotta*32129
+lime_terracotta*24013
+pink_terracotta*23727
+gray_terracotta*18004
+light_gray_terracotta*26388
+cyan_terracotta*25940
+purple_terracotta*10387
+blue_terracotta*5236
+brown_terracotta*23664
+green_terracotta*4105
+red_terracotta*5086
+black_terracotta*26691
+terracotta*16544
+packed_ice*28993
+white_stained_glass*31190
+orange_stained_glass*25142
+magenta_stained_glass*26814
+light_blue_stained_glass*17162
+yellow_stained_glass*12182
+lime_stained_glass*24266
+pink_stained_glass*16164
+gray_stained_glass*29979
+light_gray_stained_glass*5843
+cyan_stained_glass*30604
+purple_stained_glass*21845
+blue_stained_glass*7107
+brown_stained_glass*20945
+green_stained_glass*22503
+red_stained_glass*9717
+black_stained_glass*13941
+prismarine*7539
+prismarine_bricks*29118
+dark_prismarine*19940
+sea_lantern*20780
+red_sandstone*9092
+chiseled_red_sandstone*15529
+cut_red_sandstone*29108
+nether_wart_block*15486
+warped_wart_block*15463
+red_nether_bricks*18056
+shulker_box*7776, 1, Directional.class
+white_shulker_box*31750, 1, Directional.class
+orange_shulker_box*21673, 1, Directional.class
+magenta_shulker_box*21566, 1, Directional.class
+light_blue_shulker_box*18226, 1, Directional.class
+yellow_shulker_box*28700, 1, Directional.class
+lime_shulker_box*28360, 1, Directional.class
+pink_shulker_box*24968, 1, Directional.class
+gray_shulker_box*12754, 1, Directional.class
+light_gray_shulker_box*21345, 1, Directional.class
+cyan_shulker_box*28123, 1, Directional.class
+purple_shulker_box*10373, 1, Directional.class
+blue_shulker_box*11476, 1, Directional.class
+brown_shulker_box*24230, 1, Directional.class
+green_shulker_box*9377, 1, Directional.class
+red_shulker_box*32448, 1, Directional.class
+black_shulker_box*24076, 1, Directional.class
+white_glazed_terracotta*11326, Directional.class
+orange_glazed_terracotta*27451, Directional.class
+magenta_glazed_terracotta*8067, Directional.class
+light_blue_glazed_terracotta*4336, Directional.class
+yellow_glazed_terracotta*10914, Directional.class
+lime_glazed_terracotta*13861, Directional.class
+pink_glazed_terracotta*10260, Directional.class
+gray_glazed_terracotta*6256, Directional.class
+light_gray_glazed_terracotta*10707, Directional.class
+cyan_glazed_terracotta*9550, Directional.class
+purple_glazed_terracotta*4818, Directional.class
+blue_glazed_terracotta*23823, Directional.class
+brown_glazed_terracotta*5655, Directional.class
+green_glazed_terracotta*6958, Directional.class
+red_glazed_terracotta*24989, Directional.class
+black_glazed_terracotta*29678, Directional.class
+white_concrete*6281
+orange_concrete*19914
+magenta_concrete*20591
+light_blue_concrete*29481
+yellow_concrete*15722
+lime_concrete*5863
+pink_concrete*5227
+gray_concrete*13959
+light_gray_concrete*14453
+cyan_concrete*26522
+purple_concrete*20623
+blue_concrete*18756
+brown_concrete*19006
+green_concrete*17949
+red_concrete*8032
+black_concrete*13338
+white_concrete_powder*10363
+orange_concrete_powder*30159
+magenta_concrete_powder*8272
+light_blue_concrete_powder*31206
+yellow_concrete_powder*10655
+lime_concrete_powder*28859
+pink_concrete_powder*6421
+gray_concrete_powder*13031
+light_gray_concrete_powder*21589
+cyan_concrete_powder*15734
+purple_concrete_powder*26808
+blue_concrete_powder*17773
+brown_concrete_powder*21485
+green_concrete_powder*6904
+red_concrete_powder*13286
+black_concrete_powder*16150
+turtle_egg*32101, TurtleEgg.class
+dead_tube_coral_block*28350
+dead_brain_coral_block*12979
+dead_bubble_coral_block*28220
+dead_fire_coral_block*5307
+dead_horn_coral_block*15103
+tube_coral_block*23723
+brain_coral_block*30618
+bubble_coral_block*15437
+fire_coral_block*12119
+horn_coral_block*19958
+tube_coral*23048, Waterlogged.class
+brain_coral*31316, Waterlogged.class
+bubble_coral*12464, Waterlogged.class
+fire_coral*29151, Waterlogged.class
+horn_coral*19511, Waterlogged.class
+dead_brain_coral*9116, Waterlogged.class
+dead_bubble_coral*30583, Waterlogged.class
+dead_fire_coral*8365, Waterlogged.class
+dead_horn_coral*5755, Waterlogged.class
+dead_tube_coral*18028, Waterlogged.class
+tube_coral_fan*19929, Waterlogged.class
+brain_coral_fan*13849, Waterlogged.class
+bubble_coral_fan*10795, Waterlogged.class
+fire_coral_fan*11112, Waterlogged.class
+horn_coral_fan*13610, Waterlogged.class
+dead_tube_coral_fan*17628, Waterlogged.class
+dead_brain_coral_fan*26150, Waterlogged.class
+dead_bubble_coral_fan*17322, Waterlogged.class
+dead_fire_coral_fan*27073, Waterlogged.class
+dead_horn_coral_fan*11387, Waterlogged.class
+blue_ice*22449
+conduit*5148, Waterlogged.class
+redstone_torch*22547, Lightable.class
+redstone_block*19496
+repeater*28823, Repeater.class
+comparator*18911, Comparator.class
+slime_block*31892
+lever*15319, Switch.class
+lightning_rod*30770, LightningRod.class
+tripwire_hook*8130, TripwireHook.class
+redstone_lamp*8217, Lightable.class
+note_block*20979, NoteBlock.class
+iron_trapdoor*17095, TrapDoor.class
+oak_trapdoor*16927, TrapDoor.class
+spruce_trapdoor*10289, TrapDoor.class
+birch_trapdoor*32585, TrapDoor.class
+jungle_trapdoor*8626, TrapDoor.class
+acacia_trapdoor*18343, TrapDoor.class
+dark_oak_trapdoor*10355, TrapDoor.class
+mangrove_trapdoor*17066, TrapDoor.class
+crimson_trapdoor*25056, TrapDoor.class
+warped_trapdoor*7708, TrapDoor.class
+powered_rail*11064, RedstoneRail.class
+detector_rail*13475, RedstoneRail.class
+rail*13285, Rail.class
+activator_rail*5834, RedstoneRail.class
+structure_block*26831, StructureBlock.class
+brewing_stand*14539, BrewingStand.class
+item_frame*27318
+glow_item_frame*26473
+flower_pot*30567
+lantern*5992, Lantern.class
+soul_lantern*27778, Lantern.class
+shroomlight*20424
+honeycomb_block*28780
+crying_obsidian*31545
+blackstone*7354
+gilded_blackstone*8498
+polished_blackstone*18144
+chiseled_polished_blackstone*21942
+polished_blackstone_bricks*19844
+cracked_polished_blackstone_bricks*16846
+candle*16122, Candle.class
+white_candle*26410, Candle.class
+orange_candle*22668, Candle.class
+magenta_candle*25467, Candle.class
+light_blue_candle*28681, Candle.class
+yellow_candle*14351, Candle.class
+lime_candle*21778, Candle.class
+pink_candle*28259, Candle.class
+gray_candle*10721, Candle.class
+light_gray_candle*10031, Candle.class
+cyan_candle*24765, Candle.class
+purple_candle*19606, Candle.class
+blue_candle*29047, Candle.class
+brown_candle*26145, Candle.class
+green_candle*29756, Candle.class
+red_candle*4214, Candle.class
+black_candle*12617, Candle.class
+small_amethyst_bud*14958, AmethystCluster.class
+medium_amethyst_bud*8429, AmethystCluster.class
+large_amethyst_bud*7279, AmethystCluster.class
+amethyst_cluster*13142, AmethystCluster.class
+frogspawn*8350
+nether_portal*19469, Orientable.class
+attached_pumpkin_stem*12724, Directional.class
+attached_melon_stem*30882, Directional.class
+pumpkin_stem*19021, Ageable.class
+melon_stem*8247, Ageable.class
+tripwire*8810, Tripwire.class
+kelp_plant*29697
+weeping_vines_plant*19437
+twisting_vines_plant*25338
+powder_snow*24077
+cave_vines*7339, CaveVines.class
+cave_vines_plant*30645, CaveVinesPlant.class
+big_dripleaf_stem*13167, Dripleaf.class
